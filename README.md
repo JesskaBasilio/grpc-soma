@@ -1,5 +1,6 @@
 
 # 💻 Projeto RPC com Node.js + gRPC
+# Alunos: Jessica, Erik e Ricardo
 
 Este projeto implementa um serviço simples de **Soma de dois números** utilizando
  **RPC (Remote Procedure Call)** com **gRPC em Node.js**.
